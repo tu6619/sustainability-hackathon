@@ -15,8 +15,8 @@ They provide exceptional value to sustainability organisations wanting to:
 
 ## Advanced preparation
 * Ideas are solicited from the organisation about about what problems they want to solve.
-* A theme for the hackathon is decided.
-* Around 5-7 different projects are decided.
+* Choose a number of related themes for the hackathon.
+* Optionally, around 5-7 different projects are decided in advance.
 
 ## General format
 * Hackathons last 48 hours.
@@ -24,29 +24,37 @@ They provide exceptional value to sustainability organisations wanting to:
 
 ### First evening
 * A short introduction from a senior member of the organisation.
-* Product owners pitch their ideas.
-* Teams are formed.
-* Short specification and wire-framing exercise.
+* Product owners pitch their ideas,
+* alternatively, groups form around separate themes and brainstorm potential product ideas.
+* Teams are formed around individual product ideas.
+* the teams complee a short specification and wire-framing exercise.
 
 ### First full day
+
 #### Morning
 * Product owners / service users are introduced to project management tools.
 * Product owners / service users begin to create user stories.
-* Product owners / service users carry out market research (e.g. street side, email, surveymonkey).
+* Product owners / service users carry out market research (e.g. street side, email, surveymonkey).  
+
 #### Afternoon
 * Finalise prototype specifications.
 * Product owners/ service users are free to leave.
 * Developers continue to work until late.
 
 ### Final day
+
 #### Morning
+
 * Developers work through the morning.
 * Teams reconvene for lunch.
+
 #### Afternoon
+
 * Product owners prepare final pitch.
 * Product presentations.
 
 ### Aftermath
+
 * The organisation chooses its favourite product ideas.
 * These are developed into full working prototypes.
 
