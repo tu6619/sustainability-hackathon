@@ -15,8 +15,8 @@ They provide exceptional value to sustainability organisations wanting to:
 
 ## Advanced preparation
 * Ideas are solicited from the organisation about what problems they want to solve.
-* A theme for the hackathon is decided.
-* Around 5-7 different projects are decided.
+* A number of related themes are chosen for the hackathon.
+* Optionally, around 5-7 different projects are decided in advance.
 
 ## General format
 * Hackathons last 48 hours.
@@ -24,9 +24,9 @@ They provide exceptional value to sustainability organisations wanting to:
 
 ### First evening
 * A short introduction from a senior member of the organisation.
-* Product owners pitch their ideas.
-* Teams are formed.
-* Short specification and wire-framing exercise.
+* Product owners pitch their ideas or ideas are brainstormed in groups.
+* Teams are formed around individual product ideas.
+* A short specification and wire-framing exercise is completed by each team.
 
 ### First full day
 #### Morning
