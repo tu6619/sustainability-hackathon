@@ -68,11 +68,3 @@ Founders & Coders offer the hackathon itself for free! The partner organisation 
 * Ideas that can be feasibly built in 48 hours.
 * Ideas that will most impact and help the wider sustainability community.
 * Ideas that are scaleable.
-
-## Who could be approached?
-* [Good Energy](http://www.goodenergy.co.uk/)
-* [Bristol Energy](https://bristol-energy.co.uk/)
-* [Soil Association](http://www.soilassociation.org/)
-* [Bond Dickinson Renewables](http://www.bonddickinson.com/expertise/sectors/energy-and-natural-resources/power-and-renewables)
-* [Trees for Cities](http://www.treesforcities.org/)
-* [The National Trust](https://www.nationaltrust.org.uk/)
