@@ -1,7 +1,7 @@
 # A Sustainability Hackathon with Founders & Coders
 
 ## Overview
-While providing the industry's leading training in full-stack JavaScript, Founders & Coders looks to support social enterprise and community projects. Organisations that we are already scheduling collaborations with include the Anna Feud Centre, Zing Foundation, Year Here, On Purpose, CAST, and New Philanthropy Capital. Passionate about sustainability, we're looking to work with organisations involved at every level of the sustainable development chain.
+While providing the industry's leading training in full-stack JavaScript, Founders & Coders looks to support social enterprise and community projects. Organisations that we are already scheduling collaborations with include the Anna Freud Centre, Zing Foundation, Year Here, On Purpose, CAST, and New Philanthropy Capital. Passionate about sustainability, we're looking to work with organisations involved at every level of the sustainable development chain.
 
 ## Why hackathons?
 They provide exceptional value to sustainability organisations wanting to:
