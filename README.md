@@ -1,7 +1,7 @@
 # A Sustainability Hackathon with Founders & Coders
 
 ## Overview
-While providing the industry's leading training in full-stack JavaScript, Founders & Coders looks to support social enterprise and community projects. Organisations that we are already scheduling collaborations with include the Anna Feud Centre, Zing Foundation, Year Here, On Purpose, CAST, and New Philanthropy Capital. Passionate about sustainability, we're looking to work with organisations involved at every level of the sustainable development chain.
+While providing the industry's leading training in full-stack JavaScript, Founders & Coders looks to support social enterprise and community projects. Organisations that we are already scheduling collaborations with include the Anna Freud Centre, Zing Foundation, Year Here, On Purpose, CAST, and New Philanthropy Capital. Passionate about sustainability, we're looking to work with organisations involved at every level of the sustainable development chain.
 
 ## Why hackathons?
 They provide exceptional value to sustainability organisations wanting to:
@@ -14,7 +14,7 @@ They provide exceptional value to sustainability organisations wanting to:
 * start a pipeline of digital products
 
 ## Advanced preparation
-* Ideas are solicited from the organisation about about what problems they want to solve.
+* Ideas are solicited from the organisation about what problems they want to solve.
 * A theme for the hackathon is decided.
 * Around 5-7 different projects are decided.
 
@@ -33,6 +33,7 @@ They provide exceptional value to sustainability organisations wanting to:
 * Product owners / service users are introduced to project management tools.
 * Product owners / service users begin to create user stories.
 * Product owners / service users carry out market research (e.g. street side, email, surveymonkey).
+
 #### Afternoon
 * Finalise prototype specifications.
 * Product owners/ service users are free to leave.
@@ -42,6 +43,7 @@ They provide exceptional value to sustainability organisations wanting to:
 #### Morning
 * Developers work through the morning.
 * Teams reconvene for lunch.
+
 #### Afternoon
 * Product owners prepare final pitch.
 * Product presentations.
