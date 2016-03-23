@@ -29,6 +29,7 @@ They provide exceptional value to sustainability organisations wanting to:
 * A short specification and wire-framing exercise is completed by each team.
 
 ### First full day
+
 #### Morning
 * Product owners / service users are introduced to project management tools.
 * Product owners / service users begin to create user stories.
@@ -40,15 +41,19 @@ They provide exceptional value to sustainability organisations wanting to:
 * Developers continue to work until late.
 
 ### Final day
+
 #### Morning
+
 * Developers work through the morning.
 * Teams reconvene for lunch.
 
 #### Afternoon
+
 * Product owners prepare final pitch.
 * Product presentations.
 
 ### Aftermath
+
 * The organisation chooses its favourite product ideas.
 * These are developed into full working prototypes.
 
